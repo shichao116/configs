@@ -1,2 +1,2 @@
 # configs
-my config files for bash, vim, etc...
+my config files for bash, vim, etc
